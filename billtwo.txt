@@ -1,0 +1,12 @@
+3/24/2022  36415 	HB VENIPUNCTURE                                           1        49.00
+3/24/2022  82784	HB REF CELIAC SCREEN PANEL, GAMMAGLOWBULIN-IGA (Q)        1        108.00
+3/24/2022  80053        HB COMPREHENSIVE METABLOIC PANEL                          1        368.00  
+3/24/2022  82306        HB VITAMIN D 25-HYDROXY                                   1        229.00
+3/24/2022  82533        HB CORTISOL                                               1        255.00
+3/24/2022  82728        HB FERRITIN                                               1        173.00
+3/24/2022  83540        HB IRON LEVEL                                             1        95.00
+3/24/2022  84466        HB TRANSFERRIN LEVEL                                      1        72.00
+3/24/2022  86258        HB RED CELIAC SCREEN PANEL, GLIADIN IGA IMMUNOASSAY       1        122.00
+3/24/2022  86364        HB RED CELIAC SCREEN PANEL, TTG-IGA IMMUNOASSAY (Q)       1        225.00
+3/24/2022  85025        HB CBC WITH DIFFERENTIAL                                  1        144.00
+3/24/2022  71046        HB-XRAY EXAM CHEST 2 VIEWS                                1        793.00
